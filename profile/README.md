@@ -1,7 +1,7 @@
 # Hack4Africa – Financial Inclusion Assistant  
 
 ## About Us  
-We are a team of innovators participating in the **[Datafest Africa 2025 Hackathon]**, focused on solving one of Africa’s most pressing challenges: **Financial Inclusion**.  
+We are a team of innovators participating in the **Datafest Africa 2025 Hackathon**, focused on solving one of Africa’s most pressing challenges: **Financial Inclusion**.  
 
 Our mission is to design and prototype an **inclusive financial assistant** that empowers underserved individuals to access essential financial services seamlessly through **WhatsApp, AI, and data-driven personalization**.  
 
