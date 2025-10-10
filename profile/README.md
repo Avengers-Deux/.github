@@ -3,8 +3,7 @@
 <div align="center">
 
 <!-- Add your logos here -->
-<img src="path/to/your/logo.png" alt="Finclusion Logo" width="200"/>
-<img src="path/to/hack4africa-logo.png" alt="Hack4Africa Logo" width="150"/>
+<img src="profile/finclusion-logo.png" alt="Finclusion Logo" width="200"/>
 
 [![Website](https://img.shields.io/badge/Website-finclusion.site-blue?style=for-the-badge&logo=google-chrome)](https://finclusion.site/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
